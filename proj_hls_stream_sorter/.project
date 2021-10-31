@@ -29,52 +29,37 @@
 		<link>
 			<name>source</name>
 			<type>2</type>
-			<location>/home/legal/GitHub/hls_stream_sorter/proj_hls_stream_sorter/.apc/.src</location>
+			<location>/home/legal/GitHub/HLS-Sorter-on-FPGA/proj_hls_stream_sorter/.apc/.src</location>
 		</link>
 		<link>
 			<name>testbench</name>
 			<type>2</type>
-			<location>/home/legal/GitHub/hls_stream_sorter/proj_hls_stream_sorter/.apc/.tb</location>
-		</link>
-		<link>
-			<name>.reference/bytestrm_dwordproc.h</name>
-			<type>1</type>
-			<location>/home/legal/GitHub/hls_stream_sorter/hls_src/bytestrm_dwordproc.h</location>
+			<location>/home/legal/GitHub/HLS-Sorter-on-FPGA/proj_hls_stream_sorter/.apc/.tb</location>
 		</link>
 		<link>
 			<name>nexys_4/constraints</name>
 			<type>2</type>
-			<location>/home/legal/GitHub/hls_stream_sorter/proj_hls_stream_sorter/nexys_4/.tcls</location>
-		</link>
-		<link>
-			<name>source/bytestrm_util.h</name>
-			<type>1</type>
-			<location>/home/legal/GitHub/hls_stream_sorter/hls_src/bytestrm_util.h</location>
+			<location>/home/legal/GitHub/HLS-Sorter-on-FPGA/proj_hls_stream_sorter/nexys_4/.tcls</location>
 		</link>
 		<link>
 			<name>source/stream_sorter.cpp</name>
 			<type>1</type>
-			<location>/home/legal/GitHub/hls_stream_sorter/hls_src/stream_sorter.cpp</location>
-		</link>
-		<link>
-			<name>testbench/stream_sorter_test.cpp</name>
-			<type>1</type>
-			<location>/home/legal/GitHub/hls_stream_sorter/hls_src/stream_sorter_test.cpp</location>
+			<location>/home/legal/GitHub/HLS-Sorter-on-FPGA/hls_src/stream_sorter.cpp</location>
 		</link>
 		<link>
 			<name>nexys_4/constraints/.xml.directive</name>
 			<type>1</type>
-			<location>/home/legal/GitHub/hls_stream_sorter/proj_hls_stream_sorter/nexys_4/nexys_4.directive</location>
+			<location>/home/legal/GitHub/HLS-Sorter-on-FPGA/proj_hls_stream_sorter/nexys_4/nexys_4.directive</location>
 		</link>
 		<link>
 			<name>nexys_4/constraints/directives.tcl</name>
 			<type>1</type>
-			<location>/home/legal/GitHub/hls_stream_sorter/proj_hls_stream_sorter/nexys_4/directives.tcl</location>
+			<location>/home/legal/GitHub/HLS-Sorter-on-FPGA/proj_hls_stream_sorter/nexys_4/directives.tcl</location>
 		</link>
 		<link>
 			<name>nexys_4/constraints/script.tcl</name>
 			<type>1</type>
-			<location>/home/legal/GitHub/hls_stream_sorter/proj_hls_stream_sorter/nexys_4/script.tcl</location>
+			<location>/home/legal/GitHub/HLS-Sorter-on-FPGA/proj_hls_stream_sorter/nexys_4/script.tcl</location>
 		</link>
 	</linkedResources>
 </projectDescription>

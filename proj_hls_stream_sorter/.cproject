@@ -51,11 +51,9 @@
                                 								
                                 <option id="gnu.cpp.compiler.option.include.paths.1665509184" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
                                     									
-                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream_sorter"/>
-                                    									
-                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream"/>
-                                    									
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include/etc"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="/home/legal/GitHub/HLS-Sorter-on-FPGA"/>
                                     									
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include"/>
                                     									
@@ -64,6 +62,10 @@
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include/ap_sysc"/>
                                     									
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/lnx64/tools/systemc/include"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream_sorter"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream"/>
                                     								
                                 </option>
                                 								
@@ -89,11 +91,9 @@
                                 								
                                 <option id="gnu.c.compiler.option.include.paths.1772041858" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
                                     									
-                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream_sorter"/>
-                                    									
-                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream"/>
-                                    									
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include/etc"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="/home/legal/GitHub/HLS-Sorter-on-FPGA"/>
                                     									
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include"/>
                                     									
@@ -102,6 +102,10 @@
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include/ap_sysc"/>
                                     									
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/lnx64/tools/systemc/include"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream_sorter"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream"/>
                                     								
                                 </option>
                                 								
@@ -175,11 +179,11 @@
                                 								
                                 <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include/etc"/>
                                 								
+                                <listOptionValue builtIn="false" value="/home/legal/GitHub/HLS-Sorter-on-FPGA"/>
+                                								
                                 <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include"/>
                                 								
                                 <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/lnx64/tools/auto_cc/include"/>
-                                								
-                                <listOptionValue builtIn="false" value="/home/legal/GitHub/hls_stream_sorter"/>
                                 								
                                 <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include/ap_sysc"/>
                                 								
@@ -187,7 +191,7 @@
                                 							
                             </option>
                             							
-                            <option id="gnu.cpp.compiler.option.other.other.1679341063" name="Other flags" superClass="gnu.cpp.compiler.option.other.other" value="-Wno-unknown-pragmas -c -fmessage-length=0" valueType="string"/>
+                            <option id="gnu.cpp.compiler.option.other.other.1679341063" name="Other flags" superClass="gnu.cpp.compiler.option.other.other" value="-c -fmessage-length=0" valueType="string"/>
                             							
                             <inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.1953231609" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
                             						
@@ -197,7 +201,7 @@
                     					
                     <sourceEntries>
                         						
-                        <entry excluding="nexys_4|*.c*|*.C*" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+                        <entry excluding="*.c*|*.C*" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
                         					
                     </sourceEntries>
                     				
@@ -257,11 +261,9 @@
                                 								
                                 <option id="gnu.cpp.compiler.option.include.paths.1133445191" name="Include paths (-I)" superClass="gnu.cpp.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
                                     									
-                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream_sorter"/>
-                                    									
-                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream"/>
-                                    									
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include/etc"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="/home/legal/GitHub/HLS-Sorter-on-FPGA"/>
                                     									
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include"/>
                                     									
@@ -270,6 +272,10 @@
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include/ap_sysc"/>
                                     									
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/lnx64/tools/systemc/include"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream_sorter"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream"/>
                                     								
                                 </option>
                                 								
@@ -285,11 +291,9 @@
                                 								
                                 <option id="gnu.c.compiler.option.include.paths.1864877802" name="Include paths (-I)" superClass="gnu.c.compiler.option.include.paths" useByScannerDiscovery="false" valueType="includePath">
                                     									
-                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream_sorter"/>
-                                    									
-                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream"/>
-                                    									
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include/etc"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="/home/legal/GitHub/HLS-Sorter-on-FPGA"/>
                                     									
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include"/>
                                     									
@@ -298,6 +302,10 @@
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include/ap_sysc"/>
                                     									
                                     <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/lnx64/tools/systemc/include"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream_sorter"/>
+                                    									
+                                    <listOptionValue builtIn="false" value="/home/legal/hls_vitis/hls_stream"/>
                                     								
                                 </option>
                                 								
@@ -361,11 +369,11 @@
                                 								
                                 <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include/etc"/>
                                 								
+                                <listOptionValue builtIn="false" value="/home/legal/GitHub/HLS-Sorter-on-FPGA"/>
+                                								
                                 <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include"/>
                                 								
                                 <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/lnx64/tools/auto_cc/include"/>
-                                								
-                                <listOptionValue builtIn="false" value="/home/legal/GitHub/hls_stream_sorter"/>
                                 								
                                 <listOptionValue builtIn="false" value="/tools/Xilinx/Vivado/2019.2/include/ap_sysc"/>
                                 								
@@ -373,7 +381,7 @@
                                 							
                             </option>
                             							
-                            <option id="gnu.cpp.compiler.option.other.other.131321336" name="Other flags" superClass="gnu.cpp.compiler.option.other.other" value="-Wno-unknown-pragmas -c -fmessage-length=0" valueType="string"/>
+                            <option id="gnu.cpp.compiler.option.other.other.131321336" name="Other flags" superClass="gnu.cpp.compiler.option.other.other" value="-c -fmessage-length=0" valueType="string"/>
                             							
                             <inputType id="cdt.managedbuild.tool.gnu.cpp.compiler.input.416838286" superClass="cdt.managedbuild.tool.gnu.cpp.compiler.input"/>
                             						
@@ -383,7 +391,7 @@
                     					
                     <sourceEntries>
                         						
-                        <entry excluding="nexys_4|*.c*|*.C*" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+                        <entry excluding="*.c*|*.C*" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
                         					
                     </sourceEntries>
                     				

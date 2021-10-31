@@ -2,7 +2,7 @@ library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.numeric_std.all;
 
-entity turbo_uart is
+entity sorter_uart is
     Port ( 
            CLK          : in  STD_LOGIC;
            RESETN       : in  STD_LOGIC;
@@ -11,9 +11,9 @@ entity turbo_uart is
            UART_TXD_IN  : in  STD_LOGIC;
            UART_RXD_OUT : out STD_LOGIC
 	);
-end turbo_uart;
+end sorter_uart;
 
-architecture Behavioral of turbo_uart is
+architecture Behavioral of sorter_uart is
 	SIGNAL   dat  : STD_LOGIC_VECTOR (7 downto 0) := (others=>'0');
 
 	SIGNAL   data_from_uart    : STD_LOGIC_VECTOR (7 downto 0);

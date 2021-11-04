@@ -45,3 +45,4 @@ proj_hls_stream_sorter/nexys_4/.debug/*
 proj_hls_stream_sorter/.vivado_hls_log_all.xml
 proj_hls_stream_sorter/.apc/*
 vivado_hls.log
+c_code/bin/main
